@@ -1,0 +1,1051 @@
+     /* framework */
+     
+     .hoofdperson {
+         position: relative;
+     }
+     
+     .person {
+         width: 500px !important;
+         border-radius: 5px;
+         background-color: #ccc;
+         padding: 15px 20px;
+         margin-bottom: 500px;
+     }
+     
+     #personcontainer {
+         position: relative;
+     }
+     
+     #bubblechart {
+         position: fixed;
+         right: 0;
+         top: 0;
+         width: 100%;
+         height: 100%;
+         z-index: -1;
+     }
+     
+     .person.active {
+         background-color: #ffffffb8;
+         color: #4d060657;
+         animation: bounce 1.2s ease-out;
+     }
+     
+     @keyframes bounce {
+         0%,
+         20%,
+         50%,
+         80%,
+         100% {
+             -moz-transform: translateY(0);
+             -ms-transform: translateY(0);
+             -webkit-transform: translateY(0);
+             transform: translateY(0);
+         }
+         40% {
+             -moz-transform: translateY(-30px);
+             -ms-transform: translateY(-30px);
+             -webkit-transform: translateY(-30px);
+             transform: translateY(-30px);
+         }
+         60% {
+             -moz-transform: translateY(-15px);
+             -ms-transform: translateY(-15px);
+             -webkit-transform: translateY(-15px);
+             transform: translateY(-15px);
+         }
+     }
+     
+     .straatnaam .header h1,
+     .straatnaam .header h2,
+     h3 {
+         color: #E57373 !important;
+     }
+     
+     p {
+         font-size: 10pt;
+         color: #E57373 !important;
+     }
+     
+     h2,
+     h1,
+     p,
+     .navbar-brand,
+     .navbar-nav>li>a {
+         font-family: 'PT Mono', monospace !important;
+     }
+     
+     a {
+         color: #777;
+         text-decoration: none;
+     }
+     
+     a:hover {
+         color: #777;
+         text-decoration: none;
+         cursor: pointer;
+     }
+     
+     h3,
+     h4,
+     h5,
+     h6 {
+         font-family: 'PT Mono', monospace !important;
+         font-size: 20px !important;
+     }
+     
+     .text-bold {
+         font-weight: bold
+     }
+     
+     .text-upper {
+         text-transform: uppercase
+     }
+     /* straatnaam */
+     
+     .straatnaam {
+         color: #777
+     }
+     
+     .h4 {
+         max-width: 240px;
+         margin: 25px auto
+     }
+     
+     .straatnaam .header {
+         margin: 30px auto;
+         max-width: 750px;
+     }
+     
+     .straatnaam .header h1 {
+         font-size: 50px;
+         color: #777;
+         margin: 25px auto;
+     }
+     
+     .straatnaam .header h2 {
+         margin: 50px auto;
+         color: #777
+     }
+     
+     .googlemaps {
+         margin-top: -10%;
+     }
+     
+     .h3 {
+         padding-left: 6px;
+         padding-right: 6px;
+     }
+     
+     .straatnaam .header h3 {
+         color: #aaa;
+         margin: 25px auto
+     }
+     
+     .container-fluid h3 {
+         margin: 20px 0;
+         font-size: 30px
+     }
+     
+     .item1 {
+         transition: all .2s ease-in-out;
+         height: 220px;
+     }
+     
+     .itemhomepage {
+         border-radius: 5px;
+         border: 1px solid #ddd;
+         box-shadow: 0 0 15px #aaa;
+         transition: all .2s ease-in-out;
+         margin: 15px;
+         height: 110px;
+     }
+     
+     #node-id .item {
+         border-radius: 5px;
+         border: 1px solid #ddd;
+         box-shadow: 0 0 15px #aaa;
+         transition: all .2s ease-in-out;
+         margin: 15px;
+         height: 254px !important;
+         -webkit-box-shadow: 6px 6px 18px 2px rgba(148, 148, 148, 1);
+         -moz-box-shadow: 6px 6px 18px 2px rgba(148, 148, 148, 1);
+         box-shadow: 6px 6px 18px 2px rgba(148, 148, 148, 1);
+     }
+     
+     .gm-iv-address,
+     .gmnoprint .gm-style-cc,
+     .gm-style .gm-style-cc a {
+         display: none !important
+     }
+     
+     .kaart {
+         padding: 2px;
+     }
+     
+     .item.test h3 {
+         margin: 0;
+         font-size: 16px;
+         color: black;
+     }
+     
+     .col-lg-6,
+     .col-md-6,
+     .col-sm-4,
+     .col-xs-4 {
+         position: relative;
+         min-height: 1px;
+         padding-right: 0px;
+         padding-top: 5px;
+         padding-left: 0px;
+         padding-bottom: 5px;
+     }
+     
+     .itemen {
+         width: 100%;
+         max-width: 250px;
+         border-radius: 5px;
+         border: 1px solid #ddd;
+         overflow: hidden;
+         box-shadow: 0 0 15px #aaa;
+         opacity: .9;
+         transition: all .2s ease-in-out;
+         margin: 25px auto;
+     }
+     
+     .itemen:hover {
+         box-shadow: none;
+         opacity: 1
+     }
+     
+     .item:hover {
+         box-shadow: none;
+         opacity: 1
+     }
+     
+     .item h4 {
+         color: #c6403e
+     }
+     
+     .header-image {
+         max-width: 850px !important
+     }
+     
+     .show .row>div {
+         padding: 0
+     }
+     
+     .form-group {
+         margin-bottom: 0px;
+     }
+     
+     .straatnaam .header h3 {
+         color: #aaa;
+         margin: 25px auto
+     }
+     
+     .container-fluid h3 {
+         font-size: 30px
+     }
+     
+     .item1 {
+         transition: all .2s ease-in-out;
+         height: 220px;
+     }
+     
+     .itemhomepage {
+         border-radius: 5px;
+         border: 1px solid #ddd;
+         box-shadow: 0 0 15px #aaa;
+         transition: all .2s ease-in-out;
+         margin: 10px 5px;
+         height: 145px;
+     }
+     
+     .itemhomepage h5 {
+         font-size: 18px !important;
+     }
+     
+     .active {
+         font-weight: 800!important;
+         color: #c6403e!important;
+     }
+     
+     #node-id .item,
+     #DrawDetailes .item {
+         border-radius: 5px;
+         border: 1px solid #ddd;
+         box-shadow: 0 0 15px #aaa;
+         transition: all .2s ease-in-out;
+         margin: 15px;
+         -webkit-box-shadow: 6px 6px 18px 2px rgba(148, 148, 148, 1);
+         -moz-box-shadow: 6px 6px 18px 2px rgba(148, 148, 148, 1);
+         box-shadow: 6px 6px 18px 2px rgba(148, 148, 148, 1);
+     }
+     
+     #node-id .item {
+         height: 250px;
+     }
+     
+     #DrawDetailes .item {
+         height: 310px;
+     }
+     
+     .item.test h3 {
+         margin: 0;
+         font-size: 16px;
+         color: black;
+     }
+     
+     .item:hover {
+         box-shadow: none;
+         opacity: 1
+     }
+     
+     .item h4 {
+         color: #c6403e
+     }
+     
+     .header-image {
+         max-width: 850px !important
+     }
+     
+     .form-group input {
+         display: block;
+         background: none;
+         padding: 0.175rem 0.175rem 0.0875rem;
+         font-size: 1.4rem;
+         border-width: 0;
+         border-color: transparent;
+         line-height: 1.9;
+         width: 100%;
+         color: #ccc;
+         transition: all 0.28s ease;
+         box-shadow: none;
+         border: 0px;
+         border-bottom: 1px solid #ddd;
+         text-align: center;
+     }
+     
+     ul.typeahead.dropdown-menu {
+         width: 66%;
+     }
+     /* Extra Small Devices, Phones */
+     /* Extra Small Devices, Phones */
+     
+     @media only screen and (max-width: 480px) {
+         ul.typeahead.dropdown-menu {
+             width: 100%;
+         }
+     }
+     /* Small Devices, Tablets */
+     
+     @media only screen and (max-width: 768px) {
+         ul.typeahead.dropdown-menu {
+             width: 100%;
+         }
+     }
+     
+     .dropdown-menu>.active>a,
+     .dropdown-menu>.active>a:hover {
+         background-color: rgb(230, 227, 227);
+         background-image: linear-gradient(to bottom, rgb(230, 227, 227) 0, rgb(230, 227, 227) 100%);
+         color: #c6403e;
+     }
+     
+     input:focus {
+         outline-offset: none;
+     }
+     
+      :focus {
+         outline: none;
+     }
+     
+     .area {
+         fill: #e2e2e2;
+         stroke: #f2f2f2;
+     }
+     
+     button {
+         margin: 3px;
+     }
+     
+     #mapcontainer {
+         position: relative;
+     }
+     
+     div.tooltip {
+         color: #222;
+         background: #fff;
+         padding: .5em;
+         text-shadow: #f5f5f5 0 1px 0;
+         border-radius: 2px;
+         box-shadow: 0px 0px 2px 0px #a6a6a6;
+         opacity: 0.9;
+         position: absolute;
+     }
+     
+     .classsvg {
+         width: 100%;
+         height: 100%;
+         text-anchor: middle;
+     }
+     
+     .example5 .navbar-brand {
+         display: flex;
+         align-items: center;
+     }
+     
+     @media (min-width: 1200px) {
+         .container {
+             width: 100%;
+         }
+     }
+     
+     .container {
+         padding-right: 0px;
+         padding-left: 0px;
+         margin-right: auto;
+         margin-left: auto;
+     }
+     
+     .AddMore {
+         width: 20%;
+         margin-left: 40%;
+         margin-bottom: 50px;
+     }
+     
+     .btn-primary {
+         background-image: linear-gradient(to bottom, #c0392b 0, #a53e3b 100%);
+         border-color: #c0392b;
+     }
+     
+     .btn-primary:hover {
+         color: #fff;
+         background-color: #a53e3b;
+         border-color: #a53e3b;
+     }
+     
+     .btn-primary {
+         color: #fff;
+         background-color: #a53e3b;
+         border-color: #a53e3b;
+     }
+     
+     .btn-primary:active,
+     .btn-primary:active:focus {
+         background-color: #a53e3b;
+         border-color: #a53e3b;
+     }
+     
+     .btn-primary:focus {
+         color: #fff;
+         background-color: #a53e3b;
+         border-color: #a53e3b;
+     }
+     /*detailpage*/
+     
+     .tick {
+         margin-left: -50px;
+     }
+     
+     .show {
+         height: 300px;
+         margin: 0 auto;
+         width: 70%;
+     }
+     
+     .show>div {
+         height: 100%;
+     }
+     
+     svg {
+         /* width: 100%; */
+         margin-bottom: 50px;
+     }
+     
+     .drawDetalies {
+         height: 300px;
+         margin-left: -20%;
+         width: 140%;
+     }
+     
+     .drawDetalies>div {
+         height: 100%;
+     }
+     /*dotplot*/
+     
+     body {
+         background-color: white;
+         font-family: Arial, sans-serif;
+         font-size: 20px;
+     }
+     
+     h1 {
+         color: #333399;
+         font-size: 2.0em;
+         margin: 20px 0 0 200px;
+     }
+     /* h3 {
+     color: #333399;
+     font-size: 1.5em;
+     margin: 0 0 20px 200px;
+ } */
+     /* p {
+       margin-left: 200px;
+       font-size: 11pt;
+       color: black;
+   } */
+     
+     #main {
+         width: 1000px;
+         display: block;
+         margin: 0 auto;
+     }
+     
+     div.gemeente {
+         color: #FF0099;
+         display: inline;
+     }
+     
+     div.land {
+         color: #0099FF;
+         display: inline;
+     }
+     
+     circle {
+         stroke-width: 1;
+     }
+     
+     circle.gemeente {
+         stroke: #bb4438;
+         stroke-width: 2;
+         fill: transparent;
+     }
+     
+     circle.land {
+         stroke: #858585;
+         stroke-width: 2;
+         fill: transparent;
+     }
+     
+     circle:hover {
+         opacity: .5;
+     }
+     
+     line.grid {
+         stroke: #eee;
+     }
+     
+     line.grid {
+         stroke: #5e54544a;
+     }
+     
+     line.between {
+         stroke: black;
+     }
+     
+     .axis path,
+     .axis line {
+         fill: none;
+         stroke: black;
+         shape-rendering: crispEdges;
+     }
+     
+     .axis text {
+         font-family: sans-serif;
+         font-size: 11px;
+     }
+     
+     .xlabel {
+         font-famile: sans-serif;
+         font-size: 11px;
+         color: #bb4438;
+     }
+     
+     #max {
+         display: inline;
+     }
+     
+     .secrollpage {
+         height: 3000px;
+     }
+     
+     .manvrouw {
+         position: absolute;
+         top: 800px;
+     }
+     
+     .werk {
+         position: absolute;
+         top: 1500px;
+     }
+     
+     .geborte {
+         position: absolute;
+         top: 2000px;
+     }
+     /*Antwerpen*/
+     
+     .straatnamen-container {
+         margin-top: .6em
+     }
+     
+     .straatnamen-entry {
+         position: relative;
+         line-height: 0.9em;
+         margin: .2em 0
+     }
+     
+     .straatnamen-chart {
+         padding-left: 10vw
+     }
+     
+     .straatnamen-bar-container {
+         width: 10vw;
+         height: .7em;
+         background: #eeeef0;
+         position: absolute;
+         left: 0;
+         top: .3em
+     }
+     
+     .straatnamen-fill {
+         height: 100%;
+         position: absolute;
+         right: 0;
+         top: 0;
+         background-color: #99999c
+     }
+     
+     .straatnamen-chart .straatnamen-text {
+         padding-left: .3em
+     }
+     
+     .radio {
+         vertical-align: top;
+         width: 17px;
+         height: 17px;
+         margin: 0 3px 0 0;
+     }
+     
+     .radio+label {
+         cursor: pointer;
+         margin-bottom: 12px;
+         display: block;
+     }
+     
+     .radio:not(checked) {
+         position: absolute;
+         opacity: 0;
+     }
+     
+     .radio:not(checked)+label {
+         position: relative;
+         padding: 0 0 0 35px;
+     }
+     
+     .radio:not(checked)+label:before {
+         content: '';
+         position: absolute;
+         top: -3px;
+         left: 0;
+         width: 22px;
+         height: 22px;
+         border: 1px solid #CDD1DA;
+         border-radius: 50%;
+         background: #FFF;
+     }
+     
+     .radio:not(checked)+label:after {
+         content: '';
+         position: absolute;
+         top: 0.25px;
+         left: 3px;
+         width: 16px;
+         height: 16px;
+         border-radius: 50%;
+         background: #d5d5cd;
+         box-shadow: inset 0 1px 1px rgba(0, 0, 0, .5);
+         opacity: 0;
+         transition: all .2s;
+     }
+     
+     .radio:checked+label:after {
+         opacity: 1;
+     }
+     
+     .all,
+     .plaats {
+         top: 430px;
+     }
+     
+     .manvrouw {
+         top: 500px;
+     }
+     
+     .faunaflora,
+     .voorwerpen,
+     .activiteiten {
+         top: 500px;
+     }
+     
+     .filter-group {
+         font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+         font-weight: 600;
+         position: absolute;
+         z-index: 999;
+         left: 10px;
+         border-radius: 3px;
+         width: 40%;
+         color: #fff;
+         background-color: #fff;
+         padding: 12px;
+     }
+     /* Extra Small Devices, Phones */
+     
+     @media only screen and (max-width: 480px) {
+         .filter-group {
+             width: 70%;
+             padding: 2px;
+             right: -10%;
+         }
+         .all,
+         .manvrouw,
+         .faunaflora,
+         .voorwerpen,
+         .plaats,
+         .activiteiten {
+             top: 1px;
+         }
+     }
+     /* Small Devices, Tablets */
+     
+     @media only screen and (max-width: 768px) {
+         .filter-group {
+             width: 70%;
+             padding: 2px;
+             right: -10%;
+         }
+         .all,
+         .manvrouw,
+         .faunaflora,
+         .voorwerpen,
+         .plaats,
+         .activiteiten {
+             top: 1px;
+         }
+     }
+     
+     #mapmanvrouw,
+     #mapfaunaflora,
+     #mapant,
+     #mapvoorwerp,
+     #mapactiviteiten,
+     #mapplaats {
+         box-shadow: 0 0 15px #aaa;
+         height: 700px;
+         width: 70%;
+         position: relative;
+         margin: 25px auto;
+     }
+     
+     @media only screen and (max-width: 480px) {
+         #mapmanvrouw,
+         #mapfaunaflora,
+         #mapant,
+         #mapvoorwerp,
+         #mapactiviteiten,
+         #mapplaats {
+             width: 90%;
+             position: relative;
+             margin: 25px auto;
+         }
+     }
+     /* Small Devices, Tablets */
+     
+     @media only screen and (max-width: 768px) {
+         #mapmanvrouw,
+         #mapfaunaflora,
+         #mapant,
+         #mapvoorwerp,
+         #mapactiviteiten,
+         #mapplaats {
+             width: 90%;
+             position: relative;
+             margin: 25px auto;
+         }
+     }
+     
+     #map,
+     #pano {
+         height: 300px;
+     }
+     
+     .mapboxgl-popup {
+         max-width: 400px;
+         font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+     }
+     
+     .topTile {
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         width: 100%;
+         max-width: 30%;
+         -webkit-transform: translate(-50%, -50%);
+         transform: translate(-50%, -50%);
+         background-color: rgba(255, 255, 255, 0.8);
+         padding: 20px 18px;
+         border: 1px solid #d2d2d2;
+         box-shadow: -1px -1px 5px -1px rgba(0, 0, 0, 0.19), 1px 3px 5px 0px rgba(0, 0, 0, 0.19);
+         border-radius: 3px;
+         z-index: 2;
+     }
+     
+     .tile-content {
+         margin: 0 auto;
+         background-color: rgba(255, 255, 255, 0.8);
+         padding: 20px 18px;
+         border: 1px solid #d2d2d2;
+         box-shadow: -1px -1px 5px -1px rgba(0, 0, 0, 0.19), 1px 3px 5px 0px rgba(0, 0, 0, 0.19);
+         border-radius: 3px;
+         font-family: "nyt-cheltenham", georgia, "times new roman", times, serif;
+         font-weight: 500;
+         font-size: 18px;
+         line-height: 1.32;
+         text-align: center;
+     }
+     
+     .tile {
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         width: 100%;
+         max-width: 50%;
+         -webkit-transform: translate(-50%, -50%);
+         transform: translate(-50%, -50%);
+         background-color: rgba(255, 255, 255, 0.8);
+         border: 1px solid #d2d2d2;
+         box-shadow: -1px -1px 5px -1px rgba(0, 0, 0, 0.19), 1px 3px 5px 0px rgba(0, 0, 0, 0.19);
+         border-radius: 3px;
+         z-index: 2;
+         clear: both;
+     }
+     /* Extra Small Devices, Phones */
+     
+     @media only screen and (max-width: 480px) {
+         .titleBottom,
+         .titleTop,
+         #c1 {
+             display: none;
+         }
+     }
+     /* Small Devices, Tablets */
+     
+     @media only screen and (max-width: 768px) {
+         .titleBottom,
+         .titleTop,
+         #c1 {
+             display: none;
+         }
+     }
+     
+     #c2 {
+         margin-top: 150vh;
+         padding: 2%;
+     }
+     
+     .tooltipantwerp {
+         font-weight: bold
+     }
+     
+     #c2 .left {
+         content: '';
+         position: absolute;
+         left: 0;
+         top: 0;
+         width: 30px;
+         bottom: 0;
+         background-color: blue;
+         text-align: center;
+     }
+     
+     #c2 .left div {
+         position: relative;
+         width: 100%;
+         height: 100%;
+     }
+     
+     #c2 .left span {
+         position: absolute;
+         top: 50%;
+         bottom: 50%;
+         left: 134%;
+         right: 50%;
+         height: 30px;
+         -webkit-transform: rotate(270deg);
+         -moz-transform: rotate(270deg);
+         -o-transform: rotate(270deg);
+         transform: rotate(270deg);
+         color: white;
+         -webkit-transform-origin: 0% 134%;
+         -moz-transform-origin: 0% 134%;
+         -o-transform-origin: 0% 134%;
+         transform-origin: 0% 134%;
+     }
+     
+     #c2 .right {
+         content: '';
+         position: absolute;
+         right: 0;
+         top: 0;
+         width: 30px;
+         bottom: 0;
+         background-color: #ff758d;
+     }
+     
+     #c2 .right div {
+         position: relative;
+         width: 100%;
+         height: 100%;
+     }
+     
+     #c2 .right span {
+         position: absolute;
+         top: 50%;
+         bottom: 50%;
+         left: 218%;
+         right: 0;
+         height: 30px;
+         -webkit-transform: rotate(270deg);
+         -moz-transform: rotate(270deg);
+         -o-transform: rotate(270deg);
+         transform: rotate(-270deg);
+         color: white;
+         -webkit-transform-origin: 0% -116%;
+         -moz-transform-origin: 0% -116%;
+         -o-transform-origin: 0% -116%;
+         transform-origin: 0% -116%;
+     }
+     
+     #c3 {
+         margin-top: 250vh;
+     }
+     
+     #c3 .titleTop,
+     #c3 .titleBottom {
+         text-align: left;
+     }
+     
+     #c3 .titleTop div,
+     #c3 .titleBottom div {
+         text-align: center;
+         float: left;
+         height: 30px;
+         width: 25%;
+         color: white
+     }
+     
+     #c3 h4 {
+         clear: both;
+         text-align: center;
+         display: block;
+         padding: 2%;
+     }
+     
+     #c4 {
+         margin-top: 350vh;
+     }
+     
+     #c4 h4 {
+         clear: both;
+         text-align: center;
+         display: block;
+         padding: 2%;
+     }
+     
+     #c4 .titleTop,
+     #c4 .titleBottom {
+         text-align: left;
+     }
+     
+     #c4 .titleTop div,
+     #c4 .titleBottom div {
+         text-align: center;
+         float: left;
+         height: 30px;
+         width: 35%;
+         color: white
+     }
+     
+     #c5 {
+         visibility: hidden;
+         margin-top: 400vh;
+     }
+     
+     .artist {
+         cursor: pointer;
+     }
+     
+     .b,
+     .p,
+     .Politici,
+     .wetenschappers,
+     .muziek,
+     .schrijvers,
+     .kunstenaars,
+     .monarchies,
+     .overige,
+     .mon,
+     .religieus {
+         cursor: pointer;
+         stroke-width: 2;
+     }
+     
+     .b {
+         stroke: blue
+     }
+     
+     .p {
+         stroke: #ff758d
+     }
+     
+     .Politici {
+         stroke: #0277BD;
+     }
+     
+     .wetenschappers {
+         stroke: #FFCA28;
+     }
+     
+     .muziek {
+         stroke: #42A5F5;
+     }
+     
+     .schrijvers {
+         stroke: #675589;
+     }
+     
+     .kunstenaars {
+         stroke: #F9A825;
+     }
+     
+     .monarchies {
+         stroke: #35ad9e;
+     }
+     
+     .overige {
+         stroke: #99999c;
+     }
+     
+     .religieus {
+         stroke: #827717;
+     }
+     
+     .text-persent {
+         stroke: red;
+         font-size: 12px;
+         font-weight: 100;
+         font-family: sans-serif;
+     }
