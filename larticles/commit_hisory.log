@@ -1,0 +1,453 @@
+commit 6bd6a5288ef0f755574b15c18b3469cfc02cbe80
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 17 16:52:04 2018 +0200
+
+    deleted excess files
+
+commit 6e85afe8bbb5d2c0c858349a88e0e0c026050090
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 17 16:28:05 2018 +0200
+
+    revision
+
+commit 2a2046628ec7f6f1f9a71bc7d965fd5c41495696
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 17 16:10:22 2018 +0200
+
+    inital commit
+
+commit db5252e780a56e2fc149be84a2b93c7d2f5dfb6e
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 17 15:52:25 2018 +0200
+
+    Revert "data analyse"
+    
+    This reverts commit 0aa3e0d62310970433572879d83bec731e3bf046.
+
+commit 09dcef99aaacc23b920673ff2e90b4b54713f20e
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 17 15:13:07 2018 +0200
+
+    Revert "data analyse"
+    
+    This reverts commit 0aa3e0d62310970433572879d83bec731e3bf046.
+
+commit 025c1a7e11fd9bada65930d4d33ee7961ac86349
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 17 14:28:21 2018 +0200
+
+    data
+
+commit 5d9558f7e5e1af8f69d3e84cfaca7de44f494ec7
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 17 13:41:19 2018 +0200
+
+    groote files verwijderen
+
+commit 761c3467f341616d3ad2d67bf864035d06a96167
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 17 12:47:27 2018 +0200
+
+    personen pagina persoon kleuren en gemeente pagina gemeente gemiddelde
+
+commit 9c4c67f749cce8ade354808cb37f280a16985a73
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat Jun 16 13:12:58 2018 +0200
+
+    google analytic toegevoegd
+
+commit 25c3b281b1b8cf7c8f4c8ca423d1ca25947d53e0
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Fri Jun 15 22:31:49 2018 +0200
+
+    detailpage probleem opgelost
+
+commit 3a9a1e7eb3591b686f3718878b080b98bfdae910
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Fri Jun 15 21:28:35 2018 +0200
+
+    antwerpen pagina aan de details dingen gewerkt
+
+commit 24ce9a8e9f968f54a6478d77f3ec5b0067d2f89f
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Fri Jun 15 18:53:16 2018 +0200
+
+    personen animatie
+
+commit 9f7602fee0aa9a1b18880e7e6b9732abca4c494a
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Thu Jun 14 23:55:10 2018 +0200
+
+    personen animatie volgens de scroll
+
+commit 1d3f5f6237e06050a192db852cc6c5645a7f2195
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed Jun 13 23:43:07 2018 +0200
+
+    personen scroll animatie
+
+commit 415670b16d10c1e310774ba04fa2f14a499f7793
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed Jun 13 03:34:43 2018 +0200
+
+    personen animatie
+
+commit a31b43ffa838a24159b9bfcab064e225358b28da
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue Jun 12 19:50:33 2018 +0200
+
+    aan de categorien verder gewerkt van stad antwerpen
+
+commit d12d8647b47274c65aa12602a817acf92a96b27f
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue Jun 12 11:05:21 2018 +0200
+
+    detail probleem opgelost en proberen de persoon pagina beter design tegeven
+
+commit ff3092f7bd9880b4bb7810f9c0cd4e1a6de8a1a2
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Mon Jun 11 22:54:29 2018 +0200
+
+    gemeente werkt terug
+
+commit 3125ac37dba113faac459e9367953ffd409d502b
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Mon Jun 11 21:33:35 2018 +0200
+
+    mapvoorwerpen en mapactiviteiren toegevoegd
+
+commit 893fc08ac5903e4a9167c5f151b335bcb56049a3
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Mon Jun 11 14:40:23 2018 +0200
+
+    design over alle paginas en de personen pagina animatie
+
+commit 73a0c2348134747a83541f92c6a3b13531e9e174
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 10 21:48:05 2018 +0200
+
+    responsive vlaanderen kaart
+
+commit a3f3a4c707c606e51662087a09e2d1b59852d96f
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 10 19:35:22 2018 +0200
+
+    fauna en flora kaart toegevoegd
+
+commit 885dbaa2fa3e7143b1ca56906ceecdf2c8295240
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 10 03:37:14 2018 +0200
+
+    design mapbox detail
+
+commit 50b3511ee6c2808f71e1c60b6813f410f105933f
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat Jun 9 13:05:48 2018 +0200
+
+    linken naar de detailpage
+
+commit bff7bc86cafd4de988b48a14d3454fc6eae1aa89
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat Jun 9 00:01:27 2018 +0200
+
+    mapbox
+
+commit 66d1bca66b1bc7135cbc689ccd28a905792d548e
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Fri Jun 8 12:30:26 2018 +0200
+
+    pagination  en animatie personen
+
+commit 7d5c15f7265c25abd448c7462cb6a34b565f1caf
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Thu Jun 7 19:22:15 2018 +0200
+
+    personen pagina met de animatie
+
+commit 5e9b76d5c938d21c2a8f9cdc40b3e29cc940542a
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Thu Jun 7 11:18:32 2018 +0200
+
+    personen bubble chart en pagination
+
+commit 6e1462a32b0c8155af8fdaa7298d1fdb1d13065a
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed Jun 6 12:52:40 2018 +0200
+
+    google map met de belgie kaart fix error
+
+commit b6840d76d0e1554661e3c40c8583881361e8e639
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue Jun 5 15:52:24 2018 +0200
+
+    percentage  in dotplot chart
+
+commit 6b06debd7b6063d50c5851652613b93d7eb14983
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue Jun 5 14:00:17 2018 +0200
+
+    design de vlaanderen kaart en de error van zoeken opgelost
+
+commit 16dd3a53c311c4993373db452fb454b6bc9e9d1d
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Mon Jun 4 18:16:38 2018 +0200
+
+    dotplot om verschil tusssen een gemeente en heel vlanderen te tonen met de einde van de straten
+
+commit 5e38fe2fd95350c6df8993c9016fd3b8ccb839c0
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Mon Jun 4 12:16:58 2018 +0200
+
+    dotplot gemeente toegevoegd
+
+commit 523708ce43cc4c4c4bbc1a55846a87d9ffccddec
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 3 19:45:07 2018 +0200
+
+    gemeente pagina
+
+commit 2993459d9e9a8c3e70ac76f265cdcad2e8b43661
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 3 17:30:57 2018 +0200
+
+    detailpage werkt min of meer
+
+commit ba5bb1373ad7042c0531d987d2d24acd1b0c457c
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun Jun 3 13:14:24 2018 +0200
+
+    data analyse personen
+
+commit be4f3d08b02753243056a3b65d360c25edf85aa6
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Fri Jun 1 11:00:36 2018 +0200
+
+    data analyse personen
+
+commit 98349fa50966b5aa5f427e4dea390d96e6bca489
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed May 30 22:25:48 2018 +0200
+
+    detail grootmap te gevoed
+
+commit 79cc61998700c17875af83f64d188f7e7d45d7be
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed May 30 12:53:45 2018 +0200
+
+    Autocomplete Search with Clickable Links
+
+commit 7cbd0f6170a3cc4a50f418c81ee5809469b5beb7
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed May 30 12:08:52 2018 +0200
+
+    straatnamen personen
+
+commit ca35c5f76a1f750e98183af25bf64dd72eec24d7
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed May 30 11:35:00 2018 +0200
+
+    bubble chart
+
+commit ee1bc2c19f679a034f6b6b0faa3a9480423d4d9b
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue May 29 13:25:47 2018 +0200
+
+    overzichtpage
+
+commit 8416fcfc7e030b118e0b1d30d2f87bd1ecd04cf0
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue May 29 12:06:11 2018 +0200
+
+    navigeren naar de detail page
+
+commit 9fa721117eace780a93e509cd0a24f27e43da02d
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Mon May 28 14:12:20 2018 +0200
+
+    straannamen met personen
+
+commit 510c9fd5a48a54898c3c9189d83495e8d2b20259
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun May 27 22:52:34 2018 +0200
+
+    detailpage
+
+commit 379753c28e2a847bb578303775bc955a396ba5c6
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun May 27 15:56:39 2018 +0200
+
+    nav toegevoegd
+
+commit de0825ccec307150b70901cf504f1d9d02e7be67
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun May 27 14:16:08 2018 +0200
+
+    show more button werkt
+
+commit f8c2c2d327277d48d99cba619c561418b397b8ff
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat May 26 23:18:37 2018 +0200
+
+    map limit werkt nog niet goed probleem met de id
+
+commit d9c6ed77034bcbf7e42b4a4c3e03bac5d7988007
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat May 26 16:03:16 2018 +0200
+
+    kan bepalen hoeveel google maps files
+
+commit 17478ad3fb5f9ccfebab0b8acd305cb8994082b3
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat May 26 13:37:52 2018 +0200
+
+    typeahead-autocomplete werkt niet 100%
+
+commit 0cc1bffc2726aef2b0e66a02a952090c2062eee0
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat May 26 11:32:13 2018 +0200
+
+    Typeahead Autocomplete Search
+
+commit 2414ace3883a29e1c689139a391aa4da2c511b99
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat May 26 10:34:37 2018 +0200
+
+    download de straatnamen als excel bestaand
+
+commit 1a034bb3745bd4fe34fd2e89797e7ff4c25ef5a8
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Thu May 24 16:52:42 2018 +0200
+
+    de gemeente die de straat bevat krijgt een kleur en er wordt de google map voor elke straat getekend
+
+commit fd6108b3f8d847c4e3c79887399ebdc7b66ad7ce
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue May 22 21:55:26 2018 +0200
+
+    kaart  van vlaanderen
+
+commit 5dcfcea5eea9b0271b4eb5488cbef02e79623e91
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Mon May 21 19:15:24 2018 +0200
+
+    autocomplete  and navigate to the next page
+
+commit 9bc081b473bb2cd1da05904e8b553f553cea184c
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun May 20 15:15:42 2018 +0200
+
+    homepage search bar
+
+commit 5aeb3862a7f40f14837701c88441857866caa08c
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat May 19 13:51:04 2018 +0200
+
+    straatennamen calcificatie
+
+commit 8b79ac4e3314b0b6652366453a3d2cdb0e41846f
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sat May 19 13:48:42 2018 +0200
+
+    Homepage design
+
+commit 6c0501adcefc1ecce6036f96c163955fdc91b12f
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Fri May 18 15:47:39 2018 +0200
+
+    personen namen
+
+commit 3d1deb11fe4219c067f61f029c90a1a19a10e4e0
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Thu May 17 17:27:00 2018 +0200
+
+    regexp wite space
+
+commit e0509dc4a2551f9444510323e4f1ebc10f51994b
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed May 16 21:53:41 2018 +0200
+
+    voorvoegsel
+
+commit 22f723a47d50c48d1a309c0edb9e8775fb2f597a
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed May 16 18:30:43 2018 +0200
+
+    wireframes
+
+commit 5ad8e541515ff683989d9a5b5fd65075e44b08b6
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed May 16 16:11:23 2018 +0200
+
+    achtervoegsel
+
+commit 6c8f1a467179c5ce0747e6bae95bc06ceea52fc1
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed May 16 16:01:55 2018 +0200
+
+    straten antwerpen geojson
+
+commit 6fd839a84f0765ca850cecf5b42a0d579f62a628
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Wed May 16 00:17:45 2018 +0200
+
+    alle straaten van antwerpen selecteren van de straaten van vlaanderen
+
+commit 0aa3e0d62310970433572879d83bec731e3bf046
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue May 15 13:09:23 2018 +0200
+
+    data analyse
+
+commit 8eddcbe9abc66cbf3ccada658c72ad6e81b6f81a
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Mon May 14 17:45:35 2018 +0200
+
+    straat type bepalen
+
+commit bc4162ad11bb7cbe2cdd2fc6671c179208246d79
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun May 13 15:00:11 2018 +0200
+
+    dataanalyseren
+
+commit dd7afbcb62e435d6ab0dd80bac247caead2add17
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun May 13 00:03:52 2018 +0200
+
+    zelfstandig worden selecteren
+
+commit 9be6c40c391103d6cb02380be305b5972cf5f0ec
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Thu May 10 17:40:01 2018 +0200
+
+    get straaten met special einde api
+
+commit fd3dae3734e80febc148fda2d8706781e84ecda6
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Thu May 10 14:52:47 2018 +0200
+
+    straten met bepaalde einde selecteren
+
+commit 8c0ce2ad162f2c7dc20e07b2c11d707f9cf7e2c8
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue May 8 14:18:19 2018 +0200
+
+    api of the streets
+
+commit 7294d9490fe3b6980246001da8d6b98c4542d728
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Sun May 6 15:56:59 2018 +0200
+
+    get data
+
+commit 356d1e7250008e1284fcd7df09d64570f8baa615
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue Apr 24 15:34:44 2018 +0200
+
+    test
+
+commit cee1f1c8e641bf351b0f2b3c776bccfcc1eaff41
+Author: manarkbyeh <manar.kbyeh@student.kdg.be>
+Date:   Tue Apr 24 15:33:34 2018 +0200
+
+    Initial commit
